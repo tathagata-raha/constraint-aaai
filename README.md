@@ -12,9 +12,9 @@ Other folders include:
 - [temp][5]: It will contain the temporary files created while running the model.
 - [data][6]: It contains the dataset.
 
-[1]: 'preprocessing'
-[2]: 'pretraining'
-[3]: 'finetuning'
-[4]: 'results_gen'
-[5]: 'temp'
-[6]: 'data'
+[1]: preprocessing
+[2]: pretraining
+[3]: finetuning
+[4]: results_gen
+[5]: temp
+[6]: data
