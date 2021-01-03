@@ -1,0 +1,3 @@
+This folder contains two notebooks:
+- tweet_preprocessor.ipynb: to preprocess the tweets in train, validation and test set and extract emojis, hashtags, urls and other relevant info from tweets. Change the datatype variable to "train", "valid" and "test" to preprocess training set, validation set and testing set. The preprocessed files are stored as pickles here
+- tapt_preprocessor.ipynb: to dump all the posts in a txt file to form the corpus for TAPT processing of indicbert. The text file is stored here.
